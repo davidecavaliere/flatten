@@ -1,0 +1,25 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "generator to flatten an array",
+  "main": "flat.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidecavaliere/flatten.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "flatten",
+    "generator"
+  ],
+  "author": "davide cavaliere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidecavaliere/flatten/issues"
+  },
+  "homepage": "https://github.com/davidecavaliere/flatten#readme"
+}
