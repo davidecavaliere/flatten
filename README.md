@@ -1,4 +1,4 @@
-#Flatten
+# Flatten
 
 A very simple generator to flatten an array of any depth.
 
